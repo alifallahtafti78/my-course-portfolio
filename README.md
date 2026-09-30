@@ -3,10 +3,10 @@
 Welcome to my academic portfolio for CEP146
 
 ## About Me
-- Name: [Ali Fallahtafti]
-- Major: [Programming]
-- Year: [2026]
-- Favorite Programming Language: [Your Choice]
+- Name: Ali Fallahtafti
+- Major: Programming
+- Year: 2026
+- Favorite Programming Language: Swift
 
 ## Course Goals
 - [ ] Learn version control with Git and GitHub
