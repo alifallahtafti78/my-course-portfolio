@@ -21,3 +21,4 @@
 - Create branch: Branch dropdown → Type name → Create
 - Switch branch: Use branch dropdown menu
 - Commit changes: Add message → Commit
+
